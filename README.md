@@ -11,11 +11,14 @@ personal_details = {
 
 technical_skills = [
       "Test Driven Development",
-      "Python, R",
+      "Object Oriented Programming",
+      "Functional Programming",
+      "Python",
+      "R", 
       "Relational Databases - PostgreSQL",
       "Cloud Engineering (AWS) - EC2, S3, Lambda, RDS, CloudWatch, SDK, Athena",
       "DevOps - Terraform, CI/CD (GitHub Actions)",
-      "Machine Learning: Decision Trees, Perceptrons, Neural Nets, LLMs"
+      "Machine Learning - Decision Trees, Perceptrons, Neural Nets, LLMs"
 ]
 
 education = [
