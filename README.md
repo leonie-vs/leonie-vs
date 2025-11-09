@@ -1,4 +1,5 @@
 '''yaml
+*
 name: Leonie von Schirach
 located_in: Manchester, UK
 currently_doing: Data Engineering, Machine Learning, and AI Bootcamp at Northcoders
@@ -27,5 +28,5 @@ hobbies:
       "Mindfulness",
       "Crochet"
     ]
-   
+* 
 '''
