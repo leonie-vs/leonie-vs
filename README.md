@@ -1,16 +1,21 @@
-```yaml
-name: Leonie von Schirach
-located_in: Manchester, UK
-currently_doing: Data Engineering, Machine Learning, and AI Bootcamp at Northcoders
+```python
+print("Hello, welcome to my profile!)
 
-education:
+personal_details = {
+    "name": "Leonie von Schirach"
+    "location": "Manchester"
+    "currently_doing": ["Data Engineering", "Machine Learning", "AI Bootcamp at Northcoders"]
+    }
+
+education = {
     [
       "BSc in Psychology",
       "MRes in Cognitive Neuroscience and Neuropsychology",
       "PgCert in Clinical Science (Neurosensory Sciences)"
     ]
+}
 
-technical_skills:
+technical_skills = {
     [
       "Test Driven Development",
       "Python, R",
@@ -19,12 +24,14 @@ technical_skills:
       "DevOps - Terraform, CI/CD (GitHub Actions)",
       "Machine Learning: Decision Trees, Perceptrons, Neural Nets, LLMs"
     ]
+}
       
-hobbies:
+hobbies = {
     [
       "Hiking",
       "Raspberry Pi Projects",
       "Mindfulness",
       "Crochet"
     ]
+}
 ```
