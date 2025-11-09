@@ -7,7 +7,7 @@ personal_details = {
     "name": "Leonie von Schirach"
     "location": "Manchester"
     "currently_doing": "Data Engineering, Machine Learning, and AI Bootcamp at Northcoders"
-    }
+}
 
 technical_skills = [
       "Test Driven Development",
@@ -25,7 +25,7 @@ education = [
       "BSc in Psychology",
       "MRes in Cognitive Neuroscience and Neuropsychology",
       "PgCert in Clinical Science (Neurosensory Sciences)"
-    ]
+]
 
 masters_dissertation = "The Relationship Between Schizotypy and Differences in Cognitive Biases, Belief Management, and Sociocognitive Processing: A Study Investigating The Cognitive Dimensions of Paranoia"
       
@@ -37,11 +37,12 @@ hobbies = [
 ]
 
 current_favourites = {
-    "talk": "Jane Goodall - What separates us from chimpanzees? https://youtu.be/51z7WRDjOjM?si=SY7cDL_JV3Bq11Vl"
-    "hike": "Zugspitze, Germany"
+    "talk": "Jane Goodall - What separates us from chimpanzees? https://youtu.be/51z7WRDjOjM?si=SY7cDL_JV3Bq11Vl",
+    "hike": "Zugspitze, Germany",
     "book": "The Unbearable Lightness of Being - Milan Kundera",
     "song": "Modern Love - Bloc Party",
-    "video_game": "The Elder Scrolls V: Skyrim"'
+    "video_game": "The Elder Scrolls V: Skyrim"
+}
 
 
 def scroll_down():
