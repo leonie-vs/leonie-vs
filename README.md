@@ -1,16 +1,31 @@
-## Hi there 👋
+'''yaml
+name: Leonie von Schirach
+located_in: Manchester, UK
+currently_doing: Data Engineering, Machine Learning, and AI Bootcamp at Northcoders
 
-<!--
-**leonie-vs/leonie-vs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+education:
+    [
+      "BSc in Psychology",
+      "MRes in Cognitive Neuroscience and Neuropsychology",
+      "PgCert in Clinical Science (Neurosensory Sciences)"
+    ]
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+technical_skills:
+    [
+      "Test Driven Development",
+      "Python, R",
+      "Relational Databases - PostgreSQL",
+      "Cloud Engineering - AWS: EC2, S3, Lambda, RDS, CloudWatch, SDK, Athena",
+      "DevOps - Terraform, CI/CD (GitHub Actions)",
+      "Machine Learning: Decision Trees, Perceptrons, Neural Nets, LLMs"
+    ]
+      
+hobbies:
+    [
+      "Hiking",
+      "Raspberry Pi Projects",
+      "Mindfulness",
+      "Crochet"
+    ]
+   
+'''
