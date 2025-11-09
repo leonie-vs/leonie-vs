@@ -37,7 +37,7 @@ hobbies = [
 ]
 
 current_favourites = {
-    "talk": "Jane Goodall - What separates us from Chimpanzees? https://youtu.be/51z7WRDjOjM?si=SY7cDL_JV3Bq11Vl"
+    "talk": "Jane Goodall - What separates us from chimpanzees? https://youtu.be/51z7WRDjOjM?si=SY7cDL_JV3Bq11Vl"
     "hike": "Zugspitze, Germany"
     "book": "The Unbearable Lightness of Being - Milan Kundera",
     "song": "Modern Love - Bloc Party",
