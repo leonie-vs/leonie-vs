@@ -9,12 +9,6 @@ personal_details = {
     "currently_doing": "Data Engineering, Machine Learning, and AI Bootcamp at Northcoders"
     }
 
-education = [
-      "BSc in Psychology",
-      "MRes in Cognitive Neuroscience and Neuropsychology",
-      "PgCert in Clinical Science (Neurosensory Sciences)"
-    ]
-
 technical_skills = [
       "Test Driven Development",
       "Python, R",
@@ -23,6 +17,14 @@ technical_skills = [
       "DevOps - Terraform, CI/CD (GitHub Actions)",
       "Machine Learning: Decision Trees, Perceptrons, Neural Nets, LLMs"
 ]
+
+education = [
+      "BSc in Psychology",
+      "MRes in Cognitive Neuroscience and Neuropsychology",
+      "PgCert in Clinical Science (Neurosensory Sciences)"
+    ]
+
+masters_dissertation = "The Relationship Between Schizotypy and Differences in Cognitive Biases, Belief Management, and Sociocognitive Processing: A Study Investigating The Cognitive Dimensions of Paranoia"
       
 hobbies = [
       "Hiking",
@@ -30,6 +32,13 @@ hobbies = [
       "Mindfulness",
       "Crochet"
 ]
+
+current_favourites = {
+    "talk": "Jane Goodall - What separates us from Chimpanzees? https://youtu.be/51z7WRDjOjM?si=SY7cDL_JV3Bq11Vl"
+    "hike": "Zugspitze, Germany"
+    "book": "The Unbearable Lightness of Being - Milan Kundera",
+    "song": "Modern Love - Bloc Party",
+    "video_game": "The Elder Scrolls V: Skyrim"'
 
 
 def scroll_down():
