@@ -10,11 +10,11 @@ personal_details = {
 }
 
 technical_skills = [
+      "Python",
+      "R",
       "Test Driven Development",
       "Object Oriented Programming",
-      "Functional Programming",
-      "Python",
-      "R", 
+      "Functional Programming", 
       "Relational Databases - PostgreSQL",
       "Cloud Engineering (AWS) - EC2, S3, Lambda, RDS, CloudWatch, SDK, Athena",
       "DevOps - Terraform, CI/CD (GitHub Actions)",
