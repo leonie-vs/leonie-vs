@@ -40,8 +40,6 @@ current_favourites = {
     "talk": "Jane Goodall - What separates us from chimpanzees? https://youtu.be/51z7WRDjOjM?si=SY7cDL_JV3Bq11Vl",
     "hike": "Zugspitze, Germany",
     "book": "The Unbearable Lightness of Being - Milan Kundera",
-    "song": "Modern Love - Bloc Party",
-    "video_game": "The Elder Scrolls V: Skyrim"
 }
 
 
