@@ -11,6 +11,7 @@ personal_details = {
 
 technical_skills = [
       "Python",
+      "SQL",
       "R",
       "Test Driven Development",
       "Object Oriented Programming",
