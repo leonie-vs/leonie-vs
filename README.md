@@ -6,7 +6,7 @@ print("Hello, welcome to my profile!")
 personal_details = {
     "name": "Leonie von Schirach"
     "location": "Manchester"
-    "currently_doing": "Data Engineering, Machine Learning, and AI Bootcamp at Northcoders"
+    "recently_graduated": "Data Engineering, Machine Learning, and AI Bootcamp at Northcoders"
 }
 
 technical_skills = [
